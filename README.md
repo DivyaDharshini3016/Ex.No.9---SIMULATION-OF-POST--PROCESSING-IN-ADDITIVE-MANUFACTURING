@@ -1,7 +1,5 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 
-
+### DATE: 26.10.2025
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
@@ -47,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1920" height="3240" alt="Screenshot 2025-10-26 114305-imageonline co-merged" src="https://github.com/user-attachments/assets/17d74faa-f891-4514-8298-cff80e5f112f" />
+
+### Name: Divya Dharshini S
+### Register Number: 212224240039
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
